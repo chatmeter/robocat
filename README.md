@@ -1,6 +1,6 @@
 ## Instructions
 
-[!website-screenshot](./readme/home.jpg)
+![website-screenshot](./readme/home.jpg)
 
 Write an axios based webscraper that will collect an arbitrary website's title, and any heading that contains the words (case insensitive) "cat", "kitten", "dog", or "puppy".
 
