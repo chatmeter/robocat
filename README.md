@@ -66,5 +66,7 @@ Make sure you have node 10+ installed. Navigate to the `robocat` folder, and run
 
 To run the project (server and client). Run `npm run dev`.
 
+Update and add files until to complete the project. Server root is located at `src/server/server.js` and the client root is located at `src/client/client.js`
+
 When complete, send a forked repository or zip file of the completed source. 
 
