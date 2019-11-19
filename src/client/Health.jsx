@@ -30,7 +30,7 @@ export default class Health extends React.Component {
     const { health, healthLoading } = this.state;
     return (
       <div>
-        Health:{" "}
+        <small className="text-muted">Backend:</small>{" "}
         {healthLoading ? (
           <span>Loading...</span>
         ) : (
