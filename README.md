@@ -47,7 +47,9 @@ You will be graded primarily on:
     - How well does the scraper perform? Does it scrape all the content? Can it bypass scraping protections on certain hard to scrape websites?
 - 2. Code quality
     - Did you write clean, idiomatic, easy to read JavaScript?
-- 3. Failure recovery and reporting
+- 3. Timeliness
+    - were you able to complete the requirements within the allotted time frame?
+- 4. Failure recovery and reporting
     - Does your scraper handle and recover from failure scenarios? Does it expose upstream website errors so they're easy to understand (if, e.g. the site doesn't allow requests from bot?)
 
 #### Extra Credit
