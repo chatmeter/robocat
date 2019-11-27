@@ -12,8 +12,9 @@ For example, if you enter `https://www.reddit.com/r/aww` into the form, hit subm
     "headers": [
         "Sleepy kitten doing a face hug",
         "I finally got a puppy. I couldn’t possibly wish for anything more. She’s beautiful.",
-        "Kitten Drifting",
+        "Kittens Drifting",
         "Cat devours dog",
+        "Puppies!"
     ]
 }
 ```
